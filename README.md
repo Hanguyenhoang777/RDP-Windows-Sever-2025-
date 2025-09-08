@@ -1,9 +1,12 @@
 # RDP(Windows Server 2025)
 •source code https://controlc.com/6b9c926        
 •tailscale(Remember to register an account if you don't have one.) https://login.tailscale.com/
+
 •free tailscale keys:tskey-auth-kbBif9htG311CNTRL-jKETKHEmpX5MH2aXggz7X5se7d51kZ2G
+
 •if you don't know anything about creating machine on github workflow, then copy the link below to see😗
 https://youtu.be/FpXPVb2PZ2g?si=NbyfTpQsXycctrrc
+
 ⚠️some small notes:
 1.This machine can only be used for 6 hours.
 2.According to some of the times I tried, if you are not lucky, you will probably get banned from github (maybe🥲)
