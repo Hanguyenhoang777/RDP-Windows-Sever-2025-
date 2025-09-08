@@ -23,4 +23,6 @@ https://youtu.be/FpXPVb2PZ2g?si=NbyfTpQsXycctrrc
 
 
 5(Remember, this is the most important. Without it, you won't be able to use VPS)
+
+
 REMEMBER DON'T FORGET TO DOWNLOAD THE TAILSCALE APP ON YOUR DEVICE, REMEMBER TO TURN IT ON AFTER SETTING UP THE VIRTUAL MACHINE
