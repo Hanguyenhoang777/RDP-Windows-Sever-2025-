@@ -26,3 +26,5 @@ https://youtu.be/FpXPVb2PZ2g?si=NbyfTpQsXycctrrc
 
 
 REMEMBER DON'T FORGET TO DOWNLOAD THE TAILSCALE APP ON YOUR DEVICE, REMEMBER TO TURN IT ON AFTER SETTING UP THE VIRTUAL MACHINE
+
+(If anyone doesn't know how to do it, just fork my repo and you can use it🥲)
